@@ -71,6 +71,7 @@ p {
     align-items: center;
     font-size: 14px;
     font-weight: 800;
+    cursor: pointer;
 }
 
 .blog_content .publishdate {
@@ -80,6 +81,7 @@ p {
 
 .blog_content h1 {
     margin-bottom: 16px;
+    display: inline-block;
 }
 
 .blog_content p {
